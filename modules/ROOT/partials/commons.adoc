@@ -39,9 +39,9 @@
 **** xref:6.2@mgmtconsole:common:bugs.adoc[]
 *** xref:6.2@mgmtconsole:common:patches-log.adoc[]
 ** Консоль управления Docsvision 6.1
-*** xref:6.1@mgmtconsole:common:change-log.adoc[]
-**** xref:6.1@mgmtconsole:common:bugs.adoc[]
-*** xref:6.1@mgmtconsole:common:patches-log.adoc[]
+*** xref:6.2@mgmtconsole:common:change-log.adoc[]
+**** xref:6.2@mgmtconsole:common:bugs.adoc[]
+*** xref:6.2@mgmtconsole:common:patches-log.adoc[]
 ** xref:6.1@edi:common:index.adoc[{em}]
 *** xref:6.1@edi:common:change-log.adoc[]
 **** xref:6.1@edi:common:bugs.adoc[]
